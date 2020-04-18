@@ -1,0 +1,14 @@
+           {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.77, 
+               "transcript": "we have forty lake %HESITATION with this new %HESITATION I see a patient %HESITATION that fast away %HESITATION entered into this next phase %HESITATION that required me %HESITATION under the circumstances %HESITATION to %HESITATION intense proclamation of a state of emergency and the state of California this is not something that I say hydroponically should be reported as such it would be misleading %HESITATION the proclamation is to serve to help advance our resources to loosen up our regulatory environment to provide some clarity in terms of jurisdiction %HESITATION oversight capacities requested access to utilization of state properties fairgrounds rather stay properties and allow us to preempt local land use if indeed %HESITATION we feel that it is appropriate "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}
